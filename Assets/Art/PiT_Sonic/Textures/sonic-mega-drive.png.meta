@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: a39d397834fc7c442a2de1747509a97c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 0
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic-mega-drive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ab30d22e992f448fc6dca3c67f83c
+      internalID: 1242984539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263139ae29b407b4f9e13fbf0febb424
+      internalID: 1921523533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f82bd58f255e74cbf246dde4d7348c
+      internalID: -713293307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4389f376a40ea4499d05f4ffb223ef
+      internalID: 957442683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abac79c08a458549a3d81c6d0730ca0
+      internalID: 1674783374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105c9ab455899b40be87ca68270d780
+      internalID: -690453318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_6
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2394
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6eb46619e2da84bbf95fcc338584ac
+      internalID: -659377185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c498b6455ab6945b64684ca01c1e88
+      internalID: -1946685242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9a804f8ca5674e8e8547b12622c99
+      internalID: -1425584217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06673714500818940868c59bc2d11c48
+      internalID: -1054861813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3832b06eec70e5545bed51fc2c151a43
+      internalID: 957464471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9441061b76fb45ae26be5e2c9c5de
+      internalID: 342729304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_12
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd79c7ee52de8458777d9e54ee3252
+      internalID: -428235564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2223
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ececdb5e07db64d93dab9f0b890369
+      internalID: -215650828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4266bd8bf62143921ff358e1064c0
+      internalID: 408546169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036fac5fd4cd685449ec1f6726de20f3
+      internalID: 1694908866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f51ce88d1a1a64f9b7099abb011cce
+      internalID: -1697130099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88424cdbe36f6484995842777c949f4c
+      internalID: -1738355145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0588514ba9d44438981699a35f0557
+      internalID: 610578543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_19
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9723f41614701324cb7cc4fc5481348d
+      internalID: 1537588633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_20
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 2052
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48241210f27a4f042b7c5350d39e2f4b
+      internalID: 922121272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaf7e7f9ba4df64ba2ae05669c8ce43
+      internalID: 1433555916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d29684e45ae034f914a4faf1c519fe
+      internalID: -1968915862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6875cc4c8e54449b18781b3f7d7e53
+      internalID: 11440295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_24
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644043d5b826d32468b3b85a0f3c7594
+      internalID: -1141847774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_25
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808b249421a819d4ebb4691b982ffcc5
+      internalID: -360418421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8cf62353f0a0a41ac999a3b9db48bf
+      internalID: 1449253671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_27
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1881
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7692bd09c612354782eb687a13cb1ca
+      internalID: 1929975272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e1b1d73c9bfc409bde132feced1cd
+      internalID: -1803662552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5da27f619e8742ae17119d9d8ce0d
+      internalID: 1806489671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c70f08b6af8149aa4680b30a8bc1b
+      internalID: -959350756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1ad2c6dd3a3974dbea7c593a616249
+      internalID: 771924082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_32
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104cafa1f88de3a44ac371c0f48f8757
+      internalID: -721630878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_33
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbcaaacacbbda647bd23a7bb71bf525
+      internalID: -1590782876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_34
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1710
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75458ba286e1d9e49b42985d1c54bd82
+      internalID: -283619333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59a4d8676ea454991171c72becf467
+      internalID: 1951935086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468090cfc9dd92a4aa9c24a6b994e989
+      internalID: -827180979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f821357a6ea852439eee0d85c5c97dd
+      internalID: 1437906543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839bccf8d349dc42b8cd04a5e9623e3
+      internalID: 1106571701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_39
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e4b84fe4ebe549b79bf5061007738
+      internalID: -181303936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_40
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79a21b65050f5541a9481b33726498f
+      internalID: -843801748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_41
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1539
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6eabe2a8142a42a8002bc2bb54b2b
+      internalID: 1872862583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bd9d089cfdc848aab941dde5a806b
+      internalID: 642054015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018e168ee52d6a418be79be220d5497
+      internalID: 1454163343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422fd4dc400e3b4cbf9c3555bb29a36
+      internalID: -960769495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_45
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60646286e7c67439449d4260bd6b43
+      internalID: -1216820991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_46
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444d6b1cbd14a043b809e97d7d36d15
+      internalID: -1054461296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_47
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2a0ffd6fc915642ba719815a09491b
+      internalID: 82810781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_48
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1368
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c62584ae1a15644f8c9512f66c54c05
+      internalID: 1778842170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc71d8c2106abc4ea904547b764ca6e
+      internalID: -99332041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144ac4bc4f97dd499392d267e524999
+      internalID: 1191643468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97fc687540f0464689a49f12542058a
+      internalID: 1516289083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_52
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ac82cc0a34d2640861ba7c2e56fc15
+      internalID: -1524390748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_53
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f165718277b24fad405725c591a63
+      internalID: 508533533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_54
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c7c87d9d1d9d444b040421843c866f
+      internalID: -158888275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_55
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1197
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f8eaa954e61845a7f534bb421144b
+      internalID: -1669938694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1394220de75f934280ea50e37939a6c
+      internalID: 779677629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091bb54a3aa5def4d80751ad550c3b3a
+      internalID: -319747641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc724eb7279dd4f950723ebadb7ea7
+      internalID: 1145936292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_59
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48a17ef1e31d7340b88ae4a1a2a43a4
+      internalID: 842707326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_60
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871768ace3b663a489438d86b7b308ca
+      internalID: -2099143803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_61
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525816e557e8fb49b7f43923306e551
+      internalID: 540033131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_62
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1026
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8760b20b51ef3f42a84eb46b9d96fea
+      internalID: -277200045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992cd7fabe9df84b83ef55f072578d7
+      internalID: -1995565066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8727ae3b699034f83955cd636e438c
+      internalID: -2015190331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b7fc61189f5947be02e658d0240f6
+      internalID: 731688444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_66
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b634626285b3439390a8db8108554
+      internalID: -1995621706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe14c86bcbaca6840a933e830049fc53
+      internalID: -2098275945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9e4761833be14c8480de6cf738dec
+      internalID: 6012912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_69
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 855
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcdb9247f4233c41978864b1247c09b
+      internalID: -1782284693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07659e06de2de1141a3738b894a31912
+      internalID: -89316367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918461739042344f884f457b41f4ddc
+      internalID: -1623809559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424fa79e77d17b34ea7d8399a130da04
+      internalID: -235562801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_73
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603756f71a904fc4497fe30d63cee561
+      internalID: 2078321021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_74
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57346076035a6e4eb466f737bd1169f
+      internalID: 1749927432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_75
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48906e2d8e63d4aabca94ac4a9cd3a
+      internalID: -1729432851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_76
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 684
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d7420e17297144851425c4f0babf0
+      internalID: 435408146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09960ac8f05437408881a932f1964a7
+      internalID: -400858111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe35889cd7235438a159913452b6f1
+      internalID: -2016180779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36f50f651b4a744b02ef6ec436a81d
+      internalID: 1426023440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_80
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b4cdfc8d92dd24d840eb5970655f53
+      internalID: -677746326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_81
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e52e168937bc0148bc7a47582b42d86
+      internalID: -1633251928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_82
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654eb895ccc41f34d9a64d4e283d761b
+      internalID: 1174787977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_83
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 513
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b4090abc114c4bb5d4428c0bc11dd
+      internalID: -1236524180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425087405d93504b80e2e53c799a274
+      internalID: -1485121732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_85
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e10bdfcb62f4429a919ba597bd1b0
+      internalID: 441415357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dab9a86f595c343b48ecae8a6bfeab
+      internalID: -652924603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_87
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd30c3c446a59f944a57748798644b41
+      internalID: 745530026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_88
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272858e66f16d9d408d56010ea70fc25
+      internalID: 1903587762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_89
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5984837d18be54a9abd88d34ccdedb
+      internalID: 1166331870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_90
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 342
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece1772321236a4f93835917a814618
+      internalID: 938020579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9cc5245a01634cb21d88149c3a0b0
+      internalID: 307228028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_92
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d28cae6c6ec44db22ca1ca77d7cf9
+      internalID: 1295405708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb83425b849a0344874c427e29648be
+      internalID: 955913442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_94
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a3bed68a024d14eaf09ce20c3769e6
+      internalID: -1668926172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_95
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b277ca7d31b5d4bbc6b34974b0cd5a
+      internalID: -1684380797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_96
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314adf4b638f4e458800af3012b6c4a
+      internalID: -2141387014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_97
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 171
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac260c08a069eab43bcf71ce48820873
+      internalID: 251055451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb31a4c590cda1e4fa06662104a119a6
+      internalID: -427476131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_99
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0e76d975ae58a40b1bbe94270792ce
+      internalID: -127685849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a24737afa10edd4db6ce12e5102516d
+      internalID: -668039793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic-mega-drive_101
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 220
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f29c484bd6d464da026b0f3520f338
+      internalID: -438606125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 37202c776dce86b4f81adc3531f3b1b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":220.0,"y":171.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":true,"isAlternate":false}'
+    nameFileIdTable:
+      sonic-mega-drive_0: 1242984539
+      sonic-mega-drive_1: 1921523533
+      sonic-mega-drive_10: 957464471
+      sonic-mega-drive_100: -668039793
+      sonic-mega-drive_101: -438606125
+      sonic-mega-drive_102: 1270405699
+      sonic-mega-drive_103: -693097410
+      sonic-mega-drive_104: 1026456046
+      sonic-mega-drive_11: 342729304
+      sonic-mega-drive_12: -428235564
+      sonic-mega-drive_13: -215650828
+      sonic-mega-drive_14: 408546169
+      sonic-mega-drive_15: 1694908866
+      sonic-mega-drive_16: -1697130099
+      sonic-mega-drive_17: -1738355145
+      sonic-mega-drive_18: 610578543
+      sonic-mega-drive_19: 1537588633
+      sonic-mega-drive_2: -713293307
+      sonic-mega-drive_20: 922121272
+      sonic-mega-drive_21: 1433555916
+      sonic-mega-drive_22: -1968915862
+      sonic-mega-drive_23: 11440295
+      sonic-mega-drive_24: -1141847774
+      sonic-mega-drive_25: -360418421
+      sonic-mega-drive_26: 1449253671
+      sonic-mega-drive_27: 1929975272
+      sonic-mega-drive_28: -1803662552
+      sonic-mega-drive_29: 1806489671
+      sonic-mega-drive_3: 957442683
+      sonic-mega-drive_30: -959350756
+      sonic-mega-drive_31: 771924082
+      sonic-mega-drive_32: -721630878
+      sonic-mega-drive_33: -1590782876
+      sonic-mega-drive_34: -283619333
+      sonic-mega-drive_35: 1951935086
+      sonic-mega-drive_36: -827180979
+      sonic-mega-drive_37: 1437906543
+      sonic-mega-drive_38: 1106571701
+      sonic-mega-drive_39: -181303936
+      sonic-mega-drive_4: 1674783374
+      sonic-mega-drive_40: -843801748
+      sonic-mega-drive_41: 1872862583
+      sonic-mega-drive_42: 642054015
+      sonic-mega-drive_43: 1454163343
+      sonic-mega-drive_44: -960769495
+      sonic-mega-drive_45: -1216820991
+      sonic-mega-drive_46: -1054461296
+      sonic-mega-drive_47: 82810781
+      sonic-mega-drive_48: 1778842170
+      sonic-mega-drive_49: -99332041
+      sonic-mega-drive_5: -690453318
+      sonic-mega-drive_50: 1191643468
+      sonic-mega-drive_51: 1516289083
+      sonic-mega-drive_52: -1524390748
+      sonic-mega-drive_53: 508533533
+      sonic-mega-drive_54: -158888275
+      sonic-mega-drive_55: -1669938694
+      sonic-mega-drive_56: 779677629
+      sonic-mega-drive_57: -319747641
+      sonic-mega-drive_58: 1145936292
+      sonic-mega-drive_59: 842707326
+      sonic-mega-drive_6: -659377185
+      sonic-mega-drive_60: -2099143803
+      sonic-mega-drive_61: 540033131
+      sonic-mega-drive_62: -277200045
+      sonic-mega-drive_63: -1995565066
+      sonic-mega-drive_64: -2015190331
+      sonic-mega-drive_65: 731688444
+      sonic-mega-drive_66: -1995621706
+      sonic-mega-drive_67: -2098275945
+      sonic-mega-drive_68: 6012912
+      sonic-mega-drive_69: -1782284693
+      sonic-mega-drive_7: -1946685242
+      sonic-mega-drive_70: -89316367
+      sonic-mega-drive_71: -1623809559
+      sonic-mega-drive_72: -235562801
+      sonic-mega-drive_73: 2078321021
+      sonic-mega-drive_74: 1749927432
+      sonic-mega-drive_75: -1729432851
+      sonic-mega-drive_76: 435408146
+      sonic-mega-drive_77: -400858111
+      sonic-mega-drive_78: -2016180779
+      sonic-mega-drive_79: 1426023440
+      sonic-mega-drive_8: -1425584217
+      sonic-mega-drive_80: -677746326
+      sonic-mega-drive_81: -1633251928
+      sonic-mega-drive_82: 1174787977
+      sonic-mega-drive_83: -1236524180
+      sonic-mega-drive_84: -1485121732
+      sonic-mega-drive_85: 441415357
+      sonic-mega-drive_86: -652924603
+      sonic-mega-drive_87: 745530026
+      sonic-mega-drive_88: 1903587762
+      sonic-mega-drive_89: 1166331870
+      sonic-mega-drive_9: -1054861813
+      sonic-mega-drive_90: 938020579
+      sonic-mega-drive_91: 307228028
+      sonic-mega-drive_92: 1295405708
+      sonic-mega-drive_93: 955913442
+      sonic-mega-drive_94: -1668926172
+      sonic-mega-drive_95: -1684380797
+      sonic-mega-drive_96: -2141387014
+      sonic-mega-drive_97: 251055451
+      sonic-mega-drive_98: -427476131
+      sonic-mega-drive_99: -127685849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
