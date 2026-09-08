@@ -1,38 +1,42 @@
-# PACE Virtual Museum
+# Virtual Museum — Interactive 3D History Exhibit
 
-A first-person interactive Unity exhibit exploring the history of video games, built for the **Waranara Library Exhibition (Faculty of Arts, Macquarie University)** as part of Macquarie's PACE (Professional and Community Engagement) industry placement unit.
+An interactive, first-person 3D museum exhibit exploring the major historical milestones of video game development. Designed and built as a digital exhibit for the **Waranara Library Exhibition at Macquarie University** as part of Macquarie's Industry Project.
 
-Visitors move through a museum-themed 3D hub, entering interactive portals for key moments in gaming history — each with text plaques and contextual content.
+Visitors explore a museum-themed 3D hub, stepping through interactive portals into dedicated historical exhibits featured with contextual plaques, authentic aesthetic design, and interactive media.
 
-## Points in Time Featured
+## Featured Historical Exhibits
 
-- **Magnavox Odyssey (1972)** — the first video game console
-- **Space Invaders (1978)** — the "Golden Age" of arcade gaming
-- **E.T. the Extra-Terrestrial (1982)** — the Atari 2600 and the 1983 market crash
-- **Sonic the Hedgehog (1991)** — the 16-bit era and the console wars
-- **DOOM (1993)** — the shift from 2D to 3D gaming
-- **Fruit Ninja (2010)** — the rise of mobile and casual gaming
-- **Pokémon GO (2016)** — augmented reality and location-based gaming
-- **Fortnite (2017–)** — live-service games and the battle royale genre
+- **Magnavox Odyssey (1972)** — The birth of home video game consoles
+- **Space Invaders (1978)** — The golden age of arcade machines
+- **E.T. the Extra-Terrestrial (1982)** — The Atari 2600 & the 1983 industry crash
+- **Sonic the Hedgehog (1991)** — The 16-bit era and console competition
+- **DOOM (1993)** — The architectural shift from 2D rendering to 3D spaces
+- **Fruit Ninja (2010)** — The mobile gaming explosion and capacitive touch controls
+- **Pokémon GO (2016)** — Location-based augmented reality (AR)
+- **Fortnite (2017–Present)** — Live-service games and the battle royale paradigm
 
-## Tech Stack
+## Tech Stack & Tools
 
-- **Engine:** Unity 6000.3.11f1
-- **Platform:** Windows 10/11 (standalone build)
-- **3D Modelling:** Autodesk Maya, Blender
-- **2D Art/Textures:** Krita
-- **Version Control:** Git + GitHub, with feature-branch workflow and per-scene development to minimise merge conflicts
-- **Project Management:** Jira (Scrum, one-week sprints)
+- **Game Engine:** Unity 6000.3 (C#)
+- **Target Platform:** Windows Standalone (10/11)
+- **3D Asset Creation:** Autodesk Maya, Blender
+- **2D Design & Textures:** Krita
+- **Version Control:** Git & GitHub (Feature-branch workflow, per-scene isolated development)
+- **Project Management:** Jira (Agile/Scrum, 1-week Sprints)****
 
-## My Role
+## Key Contribution
 
-Secondary Programmer / Documentation — contributed to development support, debugging, and technical research, and authored project documentation including the project plan, developer training materials, and process documentation.
+**Secondary Software Programmer & Technical Lead (Documentation)**
+- Engineered interactive core player mechanics, UI portal transitions, and environmental interaction logic in Unity (C#).
+- Reduced Git merge conflicts across large binary 3D assets by establishing a strict per-scene development model and custom `.gitignore` rules.
+- Authored technical architecture documentation, test suites, developer training handbooks, and client handover guides.
 
-*This was a 5-person team project (G24 Pty Ltd) delivered for a real external client. Team: Milton Pulley (Producer/Lead Programmer), Alexander Deane (Creative Director/Lead Artist), Jacob Yap (QA/Research), Tanvir Singh (Secondary Programmer/Documentation), Jacob Lazarou (Business/Data Analyst).*
+*Built in a 5-person Agile team for a real external client (Macquarie University Library).*
 
-## Development Process
+## Engineering & Workflow Practices
 
-The team followed an Agile/Scrum methodology with one-week sprints aligned to unit deliverable milestones, managed via Jira with regular client check-ins. All development happened on feature branches with peer-reviewed pull requests before merging to `main`.
+- **Agile Methodology:** Managed deliverables via Jira sprints, peer-reviewed Pull Requests, and continuous client review cycles.
+- **Client Handover Package:** Delivered complete Unity source code, compiled standalone production builds, user guides, and extensible developer guides for appending future exhibits..
 
 ## Handover Deliverables
 
@@ -42,4 +46,4 @@ The team followed an Agile/Scrum methodology with one-week sprints aligned to un
 
 ## Status
 
-Developed as part of a university PACE placement (2026). Deployed for exhibition at the Waranara Library.
+Developed as part of a placement (2026). Deployed for exhibition at the Waranara Library.
