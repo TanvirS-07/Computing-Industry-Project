@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/948cf458-3a65-44c2-8a1a-0f3cb2bc3902
 ### Key Screenshots: Central Museum Lobby & PiT Interaction
 
 ![Central Museum Lobby](Assets/Hub.png)
-![PiT Interaction](Assets/PIT%20Interaction.png)
+![PiT Interaction](Assets/PIT%20Interaction.PNG)
 
 ## Featured Historical Exhibits
 
