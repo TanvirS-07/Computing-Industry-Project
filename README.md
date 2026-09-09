@@ -4,6 +4,17 @@ An interactive, first-person 3D museum exhibit exploring the major historical mi
 
 Visitors explore a museum-themed 3D hub, stepping through interactive portals into dedicated historical exhibits featured with contextual plaques, authentic aesthetic design, and interactive media.
 
+## Project Showcase
+### Gameplay Walkthrough
+The walkthrough below demonstrates real-time player navigation, ambient lighting setups, UI interactions, and seamless transitions between historical gaming eras.
+
+https://github.com/user-attachments/assets/948cf458-3a65-44c2-8a1a-0f3cb2bc3902
+
+### Key Screenshots: Central Museum Lobby & PiT Interaction
+
+![Central Museum Lobby](Assets/Hub.png)
+![PiT Interaction](Assets/PIT%20Interaction.png)
+
 ## Featured Historical Exhibits
 
 - **Magnavox Odyssey (1972)** — The birth of home video game consoles
